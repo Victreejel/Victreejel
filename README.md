@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Victreejel
+- 🌱 I’m currently learning C#, Python, Git, PowerBI
